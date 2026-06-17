@@ -1,2 +1,2 @@
-# ai-solutions
-AI Solutions - AI Tools Directory
+# AI Solutions
+Basic Next.js starter project.
